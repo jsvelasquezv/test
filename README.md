@@ -47,7 +47,7 @@ El código de respuesta debe ser `200 Created`
 
 ```json
 {
-  "_id" : "507f1f77bcf86cd799439011"
+  "_id" : "507f1f77bcf86cd799439011",
   "id": 12345678,
   "name": "Sebastian",
   "last_name": "Velasquez",
@@ -57,7 +57,7 @@ El código de respuesta debe ser `200 Created`
   "country": "Colombia",
   "phone": "3147065196",
   "area_code": "57",
-  "birthdate": "08-09-1994"
+  "birthdate": "08-09-1994",
   "__v" : 0
 }
 ```
@@ -97,7 +97,7 @@ El codigo de respuesta debe ser `200 OK`
 
 ```json
 {
-  "_id" : "507f1f77bcf86cd799439011"
+  "_id" : "507f1f77bcf86cd799439011",
   "id": 12345678,
   "name": "Juan",
   "last_name": "Velasquez",
@@ -107,7 +107,7 @@ El codigo de respuesta debe ser `200 OK`
   "country": "Colombia",
   "phone": "3147065196",
   "area_code": "57",
-  "birthdate": "08-09-1994"
+  "birthdate": "08-09-1994",
   "__v" : 0
 }
 ```
@@ -136,7 +136,7 @@ El codigo de respuesta debe ser `200 OK`
 {
   "users": [
     {
-	  "_id" : "507f1f77bcf86cd799439011"
+	  "_id" : "507f1f77bcf86cd799439011",
 	  "id": 12345678,
 	  "name": "Juan",
 	  "last_name": "Velasquez",
@@ -146,11 +146,11 @@ El codigo de respuesta debe ser `200 OK`
 	  "country": "Colombia",
 	  "phone": "3147065196",
 	  "area_code": "57",
-	  "birthdate": "08-09-1994"
+	  "birthdate": "08-09-1994",
 	  "__v" : 0
 	}
     {
-	  "_id" : "507f1f77bcf86cd79943901a"
+	  "_id" : "507f1f77bcf86cd79943901a",
 	  "id": 987654321,
 	  "name": "Sebastian",
 	  "last_name": "Valencia",
@@ -160,7 +160,7 @@ El codigo de respuesta debe ser `200 OK`
 	  "country": "Colombia",
 	  "phone": "3147065196",
 	  "area_code": "57",
-	  "birthdate": "08-09-1994"
+	  "birthdate": "08-09-1994",
 	  "__v" : 0
 	}
   ]
@@ -189,7 +189,7 @@ El codigo de respuesta debe ser `200 OK`
 
 ```json
 {
-	  "_id" : "507f1f77bcf86cd79943901a"
+	  "_id" : "507f1f77bcf86cd79943901a",
 	  "id": 987654321,
 	  "name": "Sebastian",
 	  "last_name": "Valencia",
@@ -199,7 +199,7 @@ El codigo de respuesta debe ser `200 OK`
 	  "country": "Colombia",
 	  "phone": "3147065196",
 	  "area_code": "57",
-	  "birthdate": "08-09-1994"
+	  "birthdate": "08-09-1994",
 	  "__v" : 0
 	}
 ```
