@@ -189,19 +189,19 @@ El codigo de respuesta debe ser `200 OK`
 
 ```json
 {
-	  "_id" : "507f1f77bcf86cd79943901a",
-	  "id": 987654321,
-	  "name": "Sebastian",
-	  "last_name": "Valencia",
-	  "address": "Calle 47n #3fn-10",
-	  "city": "Cali",
-	  "state": "Valle",
-	  "country": "Colombia",
-	  "phone": "3147065196",
-	  "area_code": "57",
-	  "birthdate": "08-09-1994",
-	  "__v" : 0
-	}
+  "_id" : "507f1f77bcf86cd79943901a",
+  "id": 987654321,
+  "name": "Sebastian",
+  "last_name": "Valencia",
+  "address": "Calle 47n #3fn-10",
+  "city": "Cali",
+  "state": "Valle",
+  "country": "Colombia",
+  "phone": "3147065196",
+  "area_code": "57",
+  "birthdate": "08-09-1994",
+  "__v" : 0
+}
 ```
 
 __Errores__
